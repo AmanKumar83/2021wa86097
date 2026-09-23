@@ -1,6 +1,5 @@
-
 public class App {
     public static void main(String[] args) {
-        System.out.println("DevOps Assignment");
+        System.out.println("DevOps Assignment Updated");
     }
 }
